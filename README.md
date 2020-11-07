@@ -1,5 +1,5 @@
 ## Project explanation
-
+---
 In this work, a machine learning-based approach for solving the inverse kinematic of a robotic arm with six degrees of freedom is presented. For comparison, a solution for a robotic arm with three degrees of freedom is shown. This project is part of my bachelor thesis work.
 
 Solving the inverse kinematics of a robotic arm is a necessary step whether it is a first-time installation or the configuration of the robotic arm is already changed.
@@ -9,6 +9,7 @@ Today there are many analytical ways for solving the inverse kinematics and some
 Nowadays the application of artificial intelligence in the industry is starting to accelerate. There is an enormous research going on in this field which is continuously resulting in solutions that are helping humanity. This work is an example showing the power of these algorithms, able for learning strong nonlinearities. The achieved results are broadening the opportunities for usage of methods like these in robotic arm kinematics.
 
 The use of machine learning-based techniques in robotic arm kinematics can enable online calibration of the robotic arms. With the use of this algorithm, the robotic arms can become independent, to some degree, from the changes in the environment such as small movement caused by vibrations, changes in the configuration of the robotic arm because of mechanical parts wear, etc... This suggests that there won't be a need for stopping the robotic arm for calibration which can cause great financial losses.
+
 ## Scripts explanation
 ---
 ### “Gradient_Boosting_Regressor.py” 
