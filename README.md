@@ -10,6 +10,8 @@ Nowadays the application of artificial intelligence in the industry is starting 
 
 The use of machine learning-based techniques in robotic arm kinematics can enable online calibration of the robotic arms. With the use of this algorithm, the robotic arms can become independent, to some degree, from the changes in the environment such as small movement caused by vibrations, changes in the configuration of the robotic arm because of mechanical parts wear, etc... This suggests that there won't be a need for stopping the robotic arm for calibration which can cause great financial losses.
 
+▸ This work is done as a project for my bachelor's degree. June 2019.
+
 ## Scripts explanation
 
 ### “Gradient_Boosting_Regressor.py” 
